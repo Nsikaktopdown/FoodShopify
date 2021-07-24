@@ -1,6 +1,6 @@
-# movie_shopify
+# foodie_shopify
 
-A new Flutter project.
+Flutter Food Ordering app with Shopify StoreFront Api
 
 ## Getting Started
 
